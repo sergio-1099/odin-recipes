@@ -1,0 +1,19 @@
+.button {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: beige;
+    color: black;
+}
+
+#title {
+    font-size: 50px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+
+.pic {
+    height: 50px;
+    width: 100px;
+}
